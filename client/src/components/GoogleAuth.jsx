@@ -30,7 +30,7 @@ class GoogleAuth extends React.Component {
   render() {
     return (
       <GoogleLogin
-        clientId="122713429777-nbioralfsboud2u8igdcptv3csag3ki2.apps.googleusercontent.com"
+        clientId="122713429777-r68e4f42ppffmds771t3ppib3a6pc6ev.apps.googleusercontent.com"
         scope="https://www.googleapis.com/auth/calendar"
         discoveryDocs={["https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"]}
         buttonText="Calendar Authorization"
